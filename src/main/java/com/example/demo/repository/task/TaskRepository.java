@@ -1,4 +1,4 @@
-package com.example.repository.task;
+package com.example.demo.repository.task;
 
 import java.util.List;
 import java.util.Optional;

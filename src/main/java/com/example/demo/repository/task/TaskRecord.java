@@ -1,4 +1,4 @@
-package com.example.repository.task;
+package com.example.demo.repository.task;
 
 import lombok.Value;
 

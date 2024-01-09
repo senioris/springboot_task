@@ -5,9 +5,9 @@ import java.util.stream.Collectors;
 
 import org.springframework.stereotype.Service;
 
+import com.example.demo.repository.task.TaskRecord;
+import com.example.demo.repository.task.TaskRepository;
 import com.example.demo.service.task.exception.TaskEntityNotFoundExeption;
-import com.example.repository.task.TaskRecord;
-import com.example.repository.task.TaskRepository;
 
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Size;
